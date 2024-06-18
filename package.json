@@ -1,0 +1,16 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "encrypt",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.2",
+      "node-rsa": "^1.1.2"
+    },
+    "author": "Name",
+    "license": "MIT"
+  }
+  
